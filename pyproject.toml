@@ -1,5 +1,5 @@
 [project]
-name = "almus-daily-inflow"
+name = "almus-inflow-forecasting"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
