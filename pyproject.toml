@@ -1,0 +1,19 @@
+[project]
+name = "almus-daily-inflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "requests",
+    "matplotlib",
+    "streamlit",
+    "scikit-learn",
+    "Pillow",
+    "folium",
+    "streamlit-folium",
+    "earthengine-api",
+    "openpyxl",
+]
